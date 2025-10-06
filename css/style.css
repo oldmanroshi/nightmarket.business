@@ -859,4 +859,4 @@ body .sk-ww-medium-publication-feed { padding-left: 50px !important; padding-rig
 .sk_medium_publication_feed_white_pop_up img, .sk_medium_publication_feed_white_pop_up figure { margin-bottom: 10px !important; }
 .sk-post-image { border-radius: 0px !important; }
 
-@media (min-width: 768px) { .ism-slider }
+.navbar-brand>img { max-width: 350px !important; }
