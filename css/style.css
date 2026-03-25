@@ -861,4 +861,4 @@ body .sk-ww-medium-publication-feed { padding-left: 50px !important; padding-rig
 
 .navbar-brand>img { max-width: 350px !important; }
 
-@media (min-width:1200px) #home > div > div > div.col-md-12.col-sm-12 > div:nth-child(8) { width: 1300px; margin-left: -65px; }
+@media (min-width:1200px) #home > div > div > div.col-md-12.col-sm-12 > div:nth-child(8) { width: 1300px; margin-left: -100px; }
